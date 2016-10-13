@@ -34,3 +34,48 @@ h3 {
     margin-top: 30px;
 
 }
+
+.features {
+    padding: 5% 0% 5% 0%;
+}
+
+p {
+    font-family: "Muli", "sans-serif";
+    text-align: center;
+    font-size: 1.2em;
+    padding-top: 10px;
+    color: #323232;
+}
+
+footer {
+    background-color: #D64551;
+    position: absolute;
+    width: 100%;
+    height: auto;
+
+}
+
+footer li {
+    display: inline-block;
+    list-style: none;
+    padding: 2% 2% 2% 2%;
+    float: right;
+    vertical-align: middle;
+}
+
+footer li a {
+    text-decoration: none;
+    color: #FFF;
+}
+
+footer p {
+    float: left;
+    padding: 2% 2% 2% 2%;
+    color: #FFF;
+
+}
+
+
+
+
+
